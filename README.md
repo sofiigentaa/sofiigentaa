@@ -25,4 +25,4 @@ Actualmente estoy sumando distintos proyectos para aplicar las técnicas aprendi
   
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 ![Visitas](https://komarev.com/ghpvc/?username=sofiigentaa&color=blue)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiigentaa&show_icons=true&theme=tokyonight)
+
