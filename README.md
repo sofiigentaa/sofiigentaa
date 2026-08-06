@@ -5,7 +5,7 @@
 ### Hola, Soy María Sofía Genta <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 
-*Tecnica Superior en Analisis Funcional de Sistemas Informaticos y QA manual*                                                                                         *Actualmente realizo distintos cursos de capacitación, entre ellos la Escuela de Tester QA en Educación IT y Carrera QA Manual, QA Automation, AI Growht Marketer en Academia QA.*       
+*Tecnica Superior en Analisis Funcional de Sistemas Informaticos y QA manual*                                                                                         *Actualmente realizo distintos cursos de capacitación, entre ellos la Escuela de Tester QA en Educación IT y Carrera QA Manual, QA Automation, AI Growht Marketer en Academia QA y ademas adquiriendo habilidades de desarrollo de software con IA.*       
 
 
 **-*Actualmente estoy en busqueda activa de empleo*** 🕵🏻‍♀
