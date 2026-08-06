@@ -19,5 +19,8 @@ Como estudiante de Análisis Funcional en Sistemas Informáticos adquirí habili
 <a href="https://www.linkedin.com/in/mariiasofíagenta/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-María%20Sofía%20Genta-blue?style=flat&logo=linkedin"></a>
 <a href="mailto:sofiigenta@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
+Cuento con el proyecto de desarrollo de una agenda para un consultorio odontológico con Google AI Studio, donde se automatizará con N8N un recordatorio de consulta y, al finalizar la sesión, una encuesta de calidad.
+Actualmente estoy sumando distintos proyectos para aplicar las técnicas aprendidas, tanto de análisis funcional como de testing manual y de automatización.
+
   
 ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
