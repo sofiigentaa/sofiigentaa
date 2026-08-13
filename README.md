@@ -16,7 +16,7 @@ Actualmente estoy sumando distintos proyectos para aplicar las técnicas aprendi
 
 ## Proyectos Personales:
 - Agenda odontologica: https://github.com/sofiigentaa/Agenda-Odontologica
-- 
+
 [Escrito Académico — Práctica Profesionalizante 1](https://docs.google.com/document/d/1qtWGrEqottrxy-LvTDyL8rVnE6fzoRDW/edit)
   ### 📫 &nbsp; Si deseas ponerte en contacto conmigo:
 
