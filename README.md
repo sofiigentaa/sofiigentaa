@@ -11,13 +11,14 @@
 **-*Actualmente estoy en busqueda activa de empleo*** 🕵🏻‍♀
 
 Como estudiante de Análisis Funcional en Sistemas Informáticos adquirí habilidades en relevamiento de requerimientos, estimación para la implementación de sistemas, descripción y análisis de cursogramas, evaluación de procedimientos y análisis de factibilidad.
-Y ademas cuento con el proyecto de desarrollo de una agenda para un consultorio odontológico con Google AI Studio, donde se automatizará con N8N un recordatorio de consulta y, al finalizar la sesión, una encuesta de calidad.
 Actualmente estoy sumando distintos proyectos para aplicar las técnicas aprendidas, tanto de análisis funcional como de testing manual y automatización.
 
 ## Proyectos Personales:
 - Agenda odontologica: https://github.com/sofiigentaa/Agenda-Odontologica
 
-[Escrito Académico — Práctica Profesionalizante 1](https://docs.google.com/document/d/1qtWGrEqottrxy-LvTDyL8rVnE6fzoRDW/edit)
+
+## Escrito Academico - Practica Proefesionalizante 1 (Tecnicatura en Analisis Funcional de Sistemas Informaticos)
+(https://docs.google.com/document/d/1qtWGrEqottrxy-LvTDyL8rVnE6fzoRDW/edit)
   ### 📫 &nbsp; Si deseas ponerte en contacto conmigo:
 
 
