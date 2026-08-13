@@ -18,7 +18,7 @@ Actualmente estoy sumando distintos proyectos para aplicar las técnicas aprendi
 
 
 ## Escrito Academico - Practica Profesionalizante 1 (Tecnicatura en Analisis Funcional de Sistemas Informaticos)
-https://docs.google.com/document/d/1qtWGrEqottrxy-LvTDyL8rVnE6fzoRDW/edit
+- https://docs.google.com/document/d/1qtWGrEqottrxy-LvTDyL8rVnE6fzoRDW/edit
   ### 📫 &nbsp; Si deseas ponerte en contacto conmigo:
 
 
