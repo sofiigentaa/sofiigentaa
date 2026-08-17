@@ -14,7 +14,7 @@ Como estudiante de Análisis Funcional en Sistemas Informáticos adquirí habili
 Actualmente estoy sumando distintos proyectos para aplicar las técnicas aprendidas, tanto de análisis funcional como de testing manual y automatización.
 
 ## Proyectos Personales:
-- Scraping automatizado de sitio inmobiliario
+- Scraping automatizado de sitio inmobiliario --> https://github.com/sofiigentaa/Scraping-automatizado-de-sitio-inmobiliario/tree/main
 - Agenda odontologica
 
 
