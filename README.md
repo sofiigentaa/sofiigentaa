@@ -15,7 +15,7 @@ Actualmente estoy sumando distintos proyectos para aplicar las técnicas aprendi
 
 ## Proyectos Personales:
 - Scraping automatizado de sitio inmobiliario --> https://github.com/sofiigentaa/Scraping-automatizado-de-sitio-inmobiliario/tree/main
-- Agenda odontologica
+- Agenda odontologica --> https://github.com/sofiigentaa/AgendaOdontologica
 
 
 ## Escrito Academico - Practica Profesionalizante 1 (Tecnicatura en Analisis Funcional de Sistemas Informaticos)
