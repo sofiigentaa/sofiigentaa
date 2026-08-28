@@ -14,8 +14,10 @@ Como estudiante de Análisis Funcional en Sistemas Informáticos adquirí habili
 Actualmente estoy sumando distintos proyectos para aplicar las técnicas aprendidas, tanto de análisis funcional como de testing manual y automatización.
 
 ## Proyectos Personales:
-- Scraping automatizado de sitio inmobiliario --> https://github.com/sofiigentaa/Scraping-automatizado-de-sitio-inmobiliario/tree/main
-- Agenda odontologica --> https://github.com/sofiigentaa/AgendaOdontologica
+- Scraper Inmobiliario Automatizado --> https://github.com/sofiigentaa/Scraping-automatizado-de-sitio-inmobiliario
+- Sistema de Gestión para Consultorio Odontológico  --> https://github.com/sofiigentaa/AgendaOdontologica
+- Sistema de Gestión para Salón de Eventos  --> https://github.com/sofiigentaa/CandySalonDeEventos
+- Sistema de Gestión de Ingresos y Gastos --> https://github.com/sofiigentaa/Gestion-de-Ingresos-y-Gastos-para-Emprendedor
 
 
 ## Escrito Academico - Practica Profesionalizante 1 (Tecnicatura en Analisis Funcional de Sistemas Informaticos)
