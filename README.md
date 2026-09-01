@@ -18,6 +18,7 @@ Actualmente estoy sumando distintos proyectos para aplicar las técnicas aprendi
 - Sistema de Gestión para Consultorio Odontológico  --> https://github.com/sofiigentaa/AgendaOdontologica
 - Sistema de Gestión para Salón de Eventos  --> https://github.com/sofiigentaa/CandySalonDeEventos
 - Sistema de Gestión de Ingresos y Gastos --> https://github.com/sofiigentaa/Gestion-de-Ingresos-y-Gastos-para-Emprendedor
+- Sistema de Gestion de Kiosco 
 
 
 ## Escrito Academico - Practica Profesionalizante 1 (Tecnicatura en Analisis Funcional de Sistemas Informaticos)
