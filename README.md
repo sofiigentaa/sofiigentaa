@@ -20,9 +20,9 @@ Pagina web: https://sg-solutions-1.onrender.com/
   https://agendaodontologica-cuvt.onrender.com/
 - Sistema de Gestión para Salón de Eventos  --> https://github.com/sofiigentaa/CandySalonDeEventos
   https://candysalondeeventos-ftg4.onrender.com/
-- Sistema de Gestion de Kiosco --> https://github.com/sofiigentaa/SistemaKiosco
+- Sistema de Gestion de Kiosco --> https://github.com/sofiigentaa/SistemaKiosco,
   https://sistemakiosco.onrender.com/
-- Agenda Medica --> https://github.com/sofiigentaa/AgendaMedica
+- Agenda Medica --> https://github.com/sofiigentaa/AgendaMedica,
   https://agendamedica-hytm.onrender.com/
 
 
