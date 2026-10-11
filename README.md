@@ -16,10 +16,10 @@ Actualmente estoy sumando distintos proyectos para aplicar las técnicas aprendi
 ## Proyectos Personales:
 Pagina web: https://sg-solutions-1.onrender.com/
 - Scraper Inmobiliario Automatizado --> https://github.com/sofiigentaa/Scraping-automatizado-de-sitio-inmobiliario
-- Sistema de Gestión para Consultorio Odontológico  --> https://github.com/sofiigentaa/AgendaOdontologica,
-- Sistema de Gestión para Salón de Eventos  --> https://github.com/sofiigentaa/CandySalonDeEventos,
-- Sistema de Gestion de Kiosco --> https://github.com/sofiigentaa/SistemaKiosco,
-- Agenda Medica --> https://github.com/sofiigentaa/AgendaMedica,
+- Sistema de Gestión para Consultorio Odontológico  --> https://github.com/sofiigentaa/AgendaOdontologica
+- Sistema de Gestión para Salón de Eventos  --> https://github.com/sofiigentaa/CandySalonDeEventos
+- Sistema de Gestion de Kiosco --> https://github.com/sofiigentaa/SistemaKiosco
+- Agenda Medica --> https://github.com/sofiigentaa/AgendaMedica
  
 
 ## Escrito Academico - Practica Profesionalizante 1 (Tecnicatura en Analisis Funcional de Sistemas Informaticos)
