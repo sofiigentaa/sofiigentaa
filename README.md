@@ -14,7 +14,7 @@ Como estudiante de Análisis Funcional en Sistemas Informáticos adquirí habili
 Actualmente estoy sumando distintos proyectos para aplicar las técnicas aprendidas, tanto de análisis funcional como de testing manual y automatización.
 
 ## Proyectos Personales:
-Pagina web: wwww.tecnoros.ar
+Pagina web: www.tecnoros.ar
 - Scraper Inmobiliario Automatizado --> https://github.com/sofiigentaa/Scraping-automatizado-de-sitio-inmobiliario
 - Sistema de Gestión para Consultorio Odontológico  --> https://github.com/sofiigentaa/AgendaOdontologica
 - Sistema de Gestión para Salón de Eventos  --> https://github.com/sofiigentaa/CandySalonDeEventos
